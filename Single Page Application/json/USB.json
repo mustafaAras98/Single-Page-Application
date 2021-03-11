@@ -1,0 +1,38 @@
+[
+    {
+        "name": "SanDisk",
+        "model": "256GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "SanDisk",
+        "model": "64GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Toshiba",
+        "model": "32GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Corsair",
+        "model": "128GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Corsair",
+        "model": "32GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Kingston",
+        "model": "32GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    }
+]

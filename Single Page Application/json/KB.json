@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Logitech",
+        "model": "G513",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Logitech",
+        "model": "G213",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Rampage",
+        "model": "KB-R206",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Everest",
+        "model": "KB-GX9",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Philips",
+        "model": "SPK8264",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    }
+]

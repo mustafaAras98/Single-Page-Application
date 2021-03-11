@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Monster",
+        "model": "Abra A5",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Acer",
+        "model": "Aspire 3",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Casper",
+        "model": "Excalibur G770",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Asus",
+        "model": "X543NA-GQ303T",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "MSI",
+        "model": "GL65",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Samsung",
+        "model": "IDEAPAD 3",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    }
+
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "HP",
+        "model": "V24",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Samsung",
+        "model": "LC27R500FHMXUF",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Asus",
+        "model": "VG24VQ",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Acer",
+        "model": "NİTRO",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Acer",
+        "model": "KG251Q",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    }   
+]

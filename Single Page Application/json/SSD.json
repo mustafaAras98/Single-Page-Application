@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Sandisk",
+        "model": "240GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Samsung 250GB",
+        "model": "",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Hikvision",
+        "model": "240GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Sandisk",
+        "model": "1TB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Samsung",
+        "model": "120GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    },
+    {
+        "name": "Gigabyte",
+        "model": "480GB",
+        "date": "01.03.2021",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro at dolorum, quod perferendis nisi nulla iure, natus cum vero quae magnam suscipit similique et eaque hic odit qui delectus modi autem provident quas"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Televizyon",
+        "shortname": "TV"
+    },
+    {
+        "name": "Bilgisayar",
+        "shortname": "PC"
+    },
+    {
+        "name": "FlashBellek",
+        "shortname": "USB"
+    },
+    {
+        "name": "Monitör",
+        "shortname": "LCD"
+    },
+    {
+        "name": "Klavye",
+        "shortname": "KB"
+    },
+    {
+        "name": "HardDisk",
+        "shortname": "HDD"
+    },
+    {
+        "name": "SolidStateDisk",
+        "shortname": "SSD"
+    },
+    {
+        "name": "Mikrofon",
+        "shortname": "MİC"
+    }
+]

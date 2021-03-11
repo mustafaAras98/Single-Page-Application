@@ -1,0 +1,95 @@
+body {
+  box-sizing: border-box;
+  background-color: azure;
+}
+
+.navbar{
+  background-color: rgb(240, 64, 21);
+  border-radius: 0;
+  border: 0;
+}
+
+#logo-img{
+  background: url('../img/Logo128px.png') no-repeat;
+  width: 128px;
+  height: 128px;
+  margin: 10px;
+}
+.nav-item{
+  list-style-type: none;
+}
+.navbar-brand{
+  position: relative;
+  margin-top: 44.5px;
+  padding: 0px;
+}
+.navbar-brand a{
+  text-decoration: none;
+}
+.navbar-brand a h1{
+  color: azure;
+  font-size: 1.5em;
+  margin: 0px 20px;
+  padding: 0px;
+  position: absolute;
+}
+.category-title{
+  text-align: center;
+  margin: 15px 0px;
+  text-decoration: none;
+}
+.category-title a{
+  color: rgb(240, 64, 21);
+  font-size: 1.7em;
+  font-weight: bold;
+  text-decoration: none;
+}
+.navbar-collapse{
+  margin-top: 49px;
+  font-size: 1.5em;
+}
+.navbar-collapse ul li{
+  margin: 0px 10px;
+}
+
+.navbar .collapse .nav a{
+  color:  azure; 
+}
+.category-item-tile{
+  margin: 20px 0px;
+}
+.category-item-description{
+  margin-top: 10px;
+  padding: 0px 15px;
+}
+.category-item{
+  font-size: 1.25em;
+  padding: 0px;
+  margin: 0px;
+}
+.navbar .collapse .nav li:hover {
+  background-color: black;
+}
+.navbar .collapse .nav .dropdown-menu a{
+  color: rgb(240, 64, 21);
+}
+
+.nav-item{
+  margin: 59px 10px 0px 10px;
+  font-size: 1.5em;
+}
+
+.jumbotron{
+  background-color: rgb(71, 140, 243);
+  opacity: 0.6;
+}
+.jumbotron h1{
+  color:azure;
+}
+
+.footer{
+  background: rgb(240, 64, 21);
+  color: azure;
+  text-align: center;
+}
+
